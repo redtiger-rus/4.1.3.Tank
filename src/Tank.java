@@ -11,7 +11,7 @@ public class Tank {
     public Tank() {
         this(0, 0, 100);
     }
-//test git
+
     public Tank(int x, int y) {
         this(x, y, 100);
     }
